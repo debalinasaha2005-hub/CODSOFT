@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class StudentGradeCalculator {
+public class Task2_StudentGradeCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // Taking the input of four subjects

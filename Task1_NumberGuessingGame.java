@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberGuessingGame {
+public class Task1_NumberGuessingGame {
     public static void main(String args[]){
     Scanner sc = new Scanner(System.in);
     int totalScore = 0;

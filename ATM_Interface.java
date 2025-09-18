@@ -37,7 +37,7 @@ class BankAccount {
 }
 
 
-      public class ATM{   //Desinging the ATM interface
+      public class ATM_Interface{   //Desinging the ATM interface
       public static void main(String args[]){
       BankAccount userAccount = new BankAccount(10000);
       Scanner sc = new Scanner(System.in);
